@@ -1,4 +1,4 @@
-![an aspiring software engineer on a journey of continuous learning and coding adventures](https://media.licdn.com/dms/image/D4D16AQGqjN9BVv4BQg/profile-displaybackgroundimage-shrink_350_1400/0/1696694413133?e=1701907200&v=beta&t=szqsp_Jx6s3w6XGRhox_pOdeYkiWEIuvuIJ37mPyRfs)
+![an aspiring software engineer on a journey of continuous learning and coding adventures](https://pbs.twimg.com/profile_banners/1710659763934248961/1696694586/1080x360)
 ### Hi there 👋, I'm MD Tahsinur Rahman
 #### an aspiring software engineer on a journey of continuous learning and coding adventures
 
