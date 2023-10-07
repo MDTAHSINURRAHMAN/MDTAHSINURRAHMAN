@@ -1,6 +1,6 @@
+![an aspiring software engineer on a journey of continuous learning and coding adventures](https://pbs.twimg.com/profile_banners/1710659763934248961/1696688752/1080x360)
 ### Hi there 👋, I'm MD Tahsinur Rahman
 #### an aspiring software engineer on a journey of continuous learning and coding adventures
-![an aspiring software engineer on a journey of continuous learning and coding adventures](https://pbs.twimg.com/profile_banners/1710659763934248961/1696688752/1080x360)
 
 Currently pursuing a BSc in Computer Science and Engineering at Khulna University of Engineering and Technology (KUET) with a passion for exploring the world of technology and innovation
 
