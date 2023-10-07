@@ -1,15 +1,23 @@
-### Hi there 👋
+### Hi there 👋, I'm MD Tahsinur Rahman
+#### an aspiring software engineer on a journey of continuous learning and coding adventures
+![an aspiring software engineer on a journey of continuous learning and coding adventures](https://pbs.twimg.com/profile_banners/1710659763934248961/1696688752/1080x360)
+
+Currently pursuing a BSc in Computer Science and Engineering at Khulna University of Engineering and Technology (KUET) with a passion for exploring the world of technology and innovation
+
+Skills: C / C++/ JAVA / HTML / CSS / JS
+
+- 🔭 I’m currently working on sharpening my coding skills by actively participating in coding contests and competitions on various platforms, such as codeforces, atcoder, codechef 
+- 🌱 I’m currently learning on a diverse range of topics in computer science and software engineering, including data structures, algorithms 
+- 👯 I’m looking to collaborate on Github 
 
 
-**MDTAHSINURRAHMAN/MDTAHSINURRAHMAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MDTAHSINURRAHMAN)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-tahsinur-rahman-82535b295/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/scared_panda_yips_yips/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Tahsin_1202)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](hypnotic___zzzZZ)  
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDTAHSINURRAHMAN)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MDTAHSINURRAHMAN&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MDTAHSINURRAHMAN)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=MDTAHSINURRAHMAN)  
+
