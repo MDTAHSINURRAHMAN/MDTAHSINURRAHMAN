@@ -1,9 +1,7 @@
 ![Banner](https://via.placeholder.com/1500x400?text=Welcome+to+My+GitHub+Profile)
 
-<p align="center">
-  <h1 align="center">Hi, I'm Md Tahsinur Rahman 👋</h1>
-  <h3 align="center">Full Stack Developer | Crafting Creative & Scalable Web Solutions</h3>
-</p>
+# Hello!  
+My name is MD. Tahsinur Rahman and I'm a Full Stack Developer.
 
 ---
 
