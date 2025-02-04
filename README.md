@@ -21,19 +21,18 @@
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" alt="html" width="50" height="50" />
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" alt="css" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="25" height="25" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwindcss" width="50" height="50" />
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" alt="js" width="50" height="50-" />
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" alt="react" width="50" height="50" />
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" alt="nodejs" width="50" height="50" />
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" alt="mongodb" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="25" height="25" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="expressjs" width="50" height="50" />
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" alt="c" width="50" height="50" />
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" alt="c++" width="50" height="50" />
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" alt="php" width="50" height="50" />
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/laravel.svg" alt="laravel" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postman" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-original-wordmark.svg" alt="axios" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/TanStack/query/main/packages/query-core/logos/react-query-mark.svg" alt="tanstack" width="25" height="25" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50" />
+  <img src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" alt="axios" width="50" height="50" />
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" alt="mysql" width="50" height="50" />
 </p>
 
