@@ -5,9 +5,9 @@
 <p>I'm also passionate about problem-solving, currently learning <strong>Data Structures and Algorithms</strong> and aspiring to dive into the world of <strong>Machine Learning</strong>.</p>   
 
 <p>
-  <a href="https://www.linkedin.com/in/md-tahsinur-rahman-539066302/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"> tahsin.me</a> 
-  <a href="https://medium.com/@mdtahsinurrahman1210"><img src="https://img.shields.io/badge/-Medium-14c767?style=flat-square&logo=Medium&logoColor=white" alt="Medium Badge"> @tahsin</a> 
-  <a href="https://x.com/Tahsin_1202"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter Badge"> tahsin.x</a> 
+  <a href="https://www.linkedin.com/in/md-tahsinur-rahman-539066302/"><img src="https://img.shields.io/badge/tahsin.me-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a> 
+  <a href="https://medium.com/@mdtahsinurrahman1210"><img src="https://img.shields.io/badge/@tahsin-14c767?style=flat-square&logo=Medium&logoColor=white" alt="Medium Badge"></a> 
+  <a href="https://x.com/Tahsin_1202"><img src="https://img.shields.io/badge/tahsin.x-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter Badge"></a> 
 </p>
 
 
