@@ -10,12 +10,20 @@
   <a href="https://x.com/Tahsin_1202"><img src="https://img.shields.io/badge/tahsin.x-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter Badge"></a> 
 </p>
 
-
-
 ---
 
-## 👩‍💻 About Me  
-Hi there! I'm a third-year Computer Science student passionate about crafting innovative web solutions. With a strong background in the MERN stack and experience in Next.js, I strive to create impactful user experiences. I’m constantly learning and evolving my technical skills while working on meaningful projects.  
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRuYm9tYWEwb2o2cjdrcXZuczR4ZDBkOHZjeTg0eWw5c3RwZnB4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7iDxGUWwYG6ibh7XpX/giphy.gif" />  
+<h2>⚡️ A Few Quick Facts</h2>  
+<ul>  
+  <li>🔭 I’m currently working on <a href="https://github.com/MDTAHSINURRAHMAN/systemPawfect">Pawfect - A Pet Rescue & Adoption System</a>.</li>  
+  <li>🧐 Learning about <strong>Next.js, Machine Learning, and Backend Development</strong>.</li>  
+  <li>👨‍💻 Most of my projects are available on <a href="https://github.com/MDTAHSINURRAHMAN/">GitHub</a>.</li>  
+  <li>📝 I occasionally write articles on <a href="https://medium.com/@mdtahsinurrahman1210">Medium</a>.</li>  
+  <li>💬 Ping me about <strong>MERN stack, problem-solving, and full-stack development</strong>.</li>  
+  <li>📙 Check out my <a href="https://www.linkedin.com/in/md-tahsinur-rahman-539066302/">LinkedIn</a>.</li>  
+  <li>🎉 I'm trying to learn DSA and dive into ML!</li>  
+</ul>
+  
 
 ---
 
