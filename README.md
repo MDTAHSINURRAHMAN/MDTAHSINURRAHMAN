@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRuYm9tYWEwb2o2cjdrcXZuczR4ZDBkOHZjeTg0eWw5c3RwZnB4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7iDxGUWwYG6ibh7XpX/giphy.gif" />  
+<img align="right" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRwcGhsZWZjZ2ZrcTAwYXB6dDVvYnRyYWM0cmVlN2c5Mzlod3Q5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elrFAUtV7ZOH7TSPhF/giphy.gif" />  
 <h2>⚡️ A Few Quick Facts</h2>  
 <ul>  
   <li>🔭 I’m currently working on <a href="https://github.com/MDTAHSINURRAHMAN/systemPawfect">Pawfect - A Pet Rescue & Adoption System</a>.</li>  
@@ -23,6 +23,7 @@
   <li>📙 Check out my <a href="https://www.linkedin.com/in/md-tahsinur-rahman-539066302/">LinkedIn</a>.</li>  
   <li>🎉 I'm trying to learn DSA and dive into ML!</li>  
 </ul>
+
   
 
 ---
