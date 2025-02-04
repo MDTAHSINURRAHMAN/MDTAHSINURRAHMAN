@@ -1,7 +1,9 @@
 ![Banner](https://via.placeholder.com/1500x400?text=Welcome+to+My+GitHub+Profile)
 
-# Sumaiya Rahman | Full Stack Developer  
-🌐 Building intuitive and scalable web applications  
+<p align="center">
+  <h1 align="center">Hi, I'm Md Tahsinur Rahman 👋</h1>
+  <h3 align="center">Full Stack Developer | Crafting Creative & Scalable Web Solutions</h3>
+</p>
 
 ---
 
