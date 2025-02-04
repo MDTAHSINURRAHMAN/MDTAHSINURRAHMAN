@@ -1,7 +1,14 @@
 ![Banner](https://via.placeholder.com/1500x400?text=Welcome+to+My+GitHub+Profile)
 
-# Hello!  
-My name is MD. Tahsinur Rahman and I'm a Full Stack Developer.
+<h2>Hey 👋, I'm Md Tahsinur Rahman</h2>  
+<p>I'm currently a third-year Computer Science student from <strong>Bangladesh</strong>, exploring full-stack development with a focus on <strong>MERN</strong> and <strong>Next.js</strong>. I'm working on side projects like <strong>Peddy</strong>, learning advanced backend concepts, and striving to make impactful contributions to web development.</p>  
+
+<p>
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a> 
+  <a href="https://medium.com/@your-profile"><img src="https://img.shields.io/badge/-Medium-14c767?style=flat-square&logo=Medium&logoColor=white" alt="Medium Badge"></a> 
+  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter Badge"></a>
+</p>
+
 
 ---
 
