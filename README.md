@@ -38,15 +38,12 @@
 
 ## 📊 GitHub Stats  
 
-![Tahsinur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDTAHSINURRAHMAN&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MDTAHSINURRAHMAN&layout=compact)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MDTAHSINURRAHMAN)
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=MDTAHSINURRAHMAN&show_icons=true&theme=noctis_minimus" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDTAHSINURRAHMAN&layout=compact&theme=noctis_minimus" />
+</p>
 
-  
+<p align="center">
+  <img height="200" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MDTAHSINURRAHMAN&theme=noctis_minimus" />
+</p>
 
----
-
-## 📌 Pinned Repositories  
-- [![Peddy](https://img.shields.io/badge/-Peddy-orange?logo=github)](https://github.com/YourUsername/Peddy)  
-- [![Career Counseling Platform](https://img.shields.io/badge/-Career_Counseling-blue)](https://github.com/YourUsername/CareerCounselingPlatform)  
-- [![Assignment 07](https://img.shields.io/badge/-Assignment_07-green)](https://github.com/YourUsername/Assignment_07)  
