@@ -17,16 +17,26 @@
   <li>🎉 I'm trying to learn DSA and dive into ML!</li>  
 </ul>
 
+<h2>⚡️ My Skills</h2> 
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postman" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-original-wordmark.svg" alt="axios" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/packages/query-core/logos/react-query-mark.svg" alt="tanstack" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+</p>
 
-  
-
----
-
-## 🚀 Current Activities  
-- 🌱 Exploring **Next.js** and advanced backend development  
-- 🐶 Developing **Peddy**, a pet adoption platform using the MERN stack  
-- 💼 Building a **Career Counseling Platform** to help students shape their careers  
-- 🛠 Enhancing my expertise in **Firebase Authentication**  
 
 ---
 
