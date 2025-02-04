@@ -36,37 +36,12 @@
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" alt="mysql" width="50" height="50" />
 </p>
 
-
----
-
-## 🛠 Skills  
-### 🔧 Frontend  
-![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)  
-![Next.js](https://img.shields.io/badge/-Next.js-black?logo=nextdotjs&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blue?logo=tailwindcss&logoColor=white)  
-
-### 🖧 Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=nodedotjs&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white)  
-
-### ⚙️ Tools  
-![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)  
-![Firebase](https://img.shields.io/badge/-Firebase-yellow?logo=firebase)  
-![VS Code](https://img.shields.io/badge/-VS_Code-blue?logo=visualstudiocode)  
-
----
-
-## 🌐 Social Links  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/YourUsername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-
----
-
 ## 📊 GitHub Stats  
-![Sumaiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)  
+
+![Tahsinur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDTAHSINURRAHMAN&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MDTAHSINURRAHMAN&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MDTAHSINURRAHMAN&theme=radical)
+  
 
 ---
 
