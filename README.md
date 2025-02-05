@@ -38,12 +38,7 @@
 
 ## 📊 GitHub Stats  
 
-<p>
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=MDTAHSINURRAHMAN&show_icons=true&theme=noctis_minimus" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDTAHSINURRAHMAN&layout=compact&theme=noctis_minimus" />
-</p>
-
-<p align="center">
-  <img height="200" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MDTAHSINURRAHMAN&theme=noctis_minimus" />
-</p>
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=MDTAHSINURRAHMAN&theme=noctis_minimus" />
 
