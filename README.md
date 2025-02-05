@@ -1,4 +1,4 @@
-![Banner](https://via.placeholder.com/1500x400?text=Welcome+to+My+GitHub+Profile)
+![Banner](https://i.postimg.cc/NfsSQ9fy/readme-banner.png)
 
 <h2>Hey 👋, I'm Md Tahsinur Rahman</h2>  
 <p>I'm currently a third-year Computer Science student from <strong>Bangladesh</strong>, exploring full-stack development with a focus on <strong>MERN</strong> and <strong>Next.js</strong>. I'm working on side projects, learning advanced backend concepts and striving to make impactful contributions to web development.</p>  
