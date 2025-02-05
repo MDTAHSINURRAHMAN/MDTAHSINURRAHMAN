@@ -39,8 +39,8 @@
 ## 📊 GitHub Stats  
 
   <div style="display: flex; gap: 10px;">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=MDTAHSINURRAHMAN&show_icons=true&theme=noctis_minimus" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDTAHSINURRAHMAN&layout=compact&theme=noctis_minimus" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=MDTAHSINURRAHMAN&show_icons=true&theme=codeSTACKr" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDTAHSINURRAHMAN&layout=compact&theme=codeSTACKr" />
   </div>
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=MDTAHSINURRAHMAN&theme=noctis_minimus" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=MDTAHSINURRAHMAN&theme=codeSTACKr" />
 
